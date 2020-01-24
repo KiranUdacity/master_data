@@ -15,10 +15,14 @@ You will need to download Stackoverflow’s 2017 and 2018 Annual Developer Surve
 To move the downloaded files to the specific folder, you can execute.
 
 1. Stackoverflow’s 2017 data
-```bash mv survey_results_public.csv Write-a-Data-Science-Blog-Post/data/2017/survey_results_public.csv ```
+```bash 
+mv survey_results_public.csv Write-a-Data-Science-Blog-Post/data/2017/survey_results_public.csv 
+```
 
 2. Stackoverflow’s 2018 data
-```bash mv survey_results_public.csv Write-a-Data-Science-Blog-Post/data/2018/survey_results_public.csv ```
+```bash 
+mv survey_results_public.csv Write-a-Data-Science-Blog-Post/data/2018/survey_results_public.csv 
+```
 
 ## Project Motivation
 
@@ -35,7 +39,7 @@ This is an Udacity Nanodegree project.I was interested in using Stackoverflow De
 
 ## File Description
 
-exploratory_analysis.ipynb: Notebook containing the data analysis.
+* exploratory_analysis.ipynb: Notebook containing the data analysis.
 data/2017/survey_results_public.csv: Stackoverflow's 2017 Annual Developer Survey data.
 data/2018/survey_results_public.csv: Stackoverflow's 2018 Annual Developer Survey data.
 
