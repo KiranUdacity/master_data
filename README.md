@@ -28,22 +28,22 @@ mv survey_results_public.csv Write-a-Data-Science-Blog-Post/data/2018/survey_res
 
 This is an Udacity Nanodegree project.I was interested in using Stackoverflow Developer Survey Data to better understand:
 
-"What are most used programming language in India?"
+1. "What are most used programming language in India?"
 
-"Do you program as a hobby or contribute to open source projects?"
+2. "Do you program as a hobby or contribute to open source projects?"
 
-"What are most wanted programming language in India?"
+3. "What are most wanted programming language in India?"
 
-"Which occupations were most popular in each year?"
+4. "Which occupations were most popular in each year?"
 
 
 ## File Description
 
-##### exploratory_analysis.ipynb: 
+#### exploratory_analysis.ipynb: 
 Notebook containing the data analysis.
-##### data/2017/survey_results_public.csv: 
+#### data/2017/survey_results_public.csv: 
 Stackoverflow's 2017 Annual Developer Survey data.
-##### data/2018/survey_results_public.csv: 
+#### data/2018/survey_results_public.csv: 
 Stackoverflow's 2018 Annual Developer Survey data.
 
 ## Results
