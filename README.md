@@ -26,7 +26,7 @@ mv survey_results_public.csv Write-a-Data-Science-Blog-Post/data/2018/survey_res
 
 ## Project Motivation
 
-This is an Udacity Nanodegree project.I was interested in using Stackoverflow Developer Survey Data to better understand:
+This is an Udacity Nanodegree project. I picked Stackoverflow Developer Survey Data to find answer to below questions:
 
 1. "What are most used programming language in India?"
 
@@ -34,7 +34,7 @@ This is an Udacity Nanodegree project.I was interested in using Stackoverflow De
 
 3. "What are most wanted programming language in India?"
 
-4. "Which occupations were most popular in each year?"
+4. "Which occupations were most popular in India in each year?"
 
 
 ## File Description
