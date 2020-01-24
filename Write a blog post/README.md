@@ -39,7 +39,7 @@ This is an Udacity Nanodegree project. I picked Stackoverflow Developer Survey D
 
 ## File Description
 
-#### exploratory_analysis.ipynb: 
+#### DataScience_blogpost.ipynb: 
 Notebook containing the data analysis.
 #### data/2017/survey_results_public.csv: 
 Stackoverflow's 2017 Annual Developer Survey data.
