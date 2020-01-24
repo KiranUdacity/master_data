@@ -39,9 +39,12 @@ This is an Udacity Nanodegree project.I was interested in using Stackoverflow De
 
 ## File Description
 
-* exploratory_analysis.ipynb: Notebook containing the data analysis.
-data/2017/survey_results_public.csv: Stackoverflow's 2017 Annual Developer Survey data.
-data/2018/survey_results_public.csv: Stackoverflow's 2018 Annual Developer Survey data.
+##### exploratory_analysis.ipynb: 
+Notebook containing the data analysis.
+##### data/2017/survey_results_public.csv: 
+Stackoverflow's 2017 Annual Developer Survey data.
+##### data/2018/survey_results_public.csv: 
+Stackoverflow's 2018 Annual Developer Survey data.
 
 ## Results
 
