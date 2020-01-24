@@ -1,9 +1,9 @@
-# master_data
-
 # Write a Data Science blog post
+
 Udacity Data Scientist Nanodegree Project.
 
-Table of Contents
+##Table of Contents
+
 Installation
 Project Motivation
 File Description
