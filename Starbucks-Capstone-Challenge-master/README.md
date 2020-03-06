@@ -67,4 +67,4 @@ In the later section, we found out which demographic groups respond best to whic
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-Must give credit to Stakbucks for the data.
+Credit to Stakbucks for the data.
